@@ -23,13 +23,14 @@ The description clearly states that the flag is "in-the-clear", meaning it is no
 - Copy the flag and submit it.
 
 ### Method 2: Using Command Line / Terminal (Linux)
-#### Step 1: Download the File Using wget
+#### Step 1: Download the File
 - Open your terminal and run:
 
 ```bash
 wget <file_url>   
 ```
 - This command stands for (World Wide Web + get), it is used to download files from the internet.
+#### Step 2: Access the Contents of the File
 - In the directory where the downloaded file is located, run the following command:
 ```bash
 cat <filename>   
