@@ -4,8 +4,7 @@
 
 ## Description
 This challenge provides a downloadable PDF file that appears to contain nothing but gibberish. The description hints that the visible content is a decoy and that the real flag is hidden within the file’s metadata.
-
-[Access the challenge](https://play.picoctf.org/practice/challenge/530?page=1&search=riddle)
+<br> [Access the challenge](https://play.picoctf.org/practice/challenge/530?page=1&search=riddle)
 
 ## Objective
 The goal of this challenge was to retrieve the flag from the provided PDF file. The hints indicated that the flag would not appear in human-readable form and would likely be hidden within the file’s metadata.

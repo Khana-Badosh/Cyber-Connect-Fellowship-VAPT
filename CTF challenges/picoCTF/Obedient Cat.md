@@ -4,8 +4,7 @@
 
 ## Description
 This file has a flag in plain sight (aka "in-the-clear").  
-[ Access the challenge](https://play.picoctf.org/practice/challenge/147?page=1&search=ob)
-
+[Access the challenge](https://play.picoctf.org/practice/challenge/147?page=1&search=ob)
 
 ## Objective
 The goal of this challenge was to retrieve the flag from a downloadable file.
