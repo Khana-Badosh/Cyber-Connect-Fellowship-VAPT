@@ -41,7 +41,7 @@ The goal of this challenge is to use a packet analysis software (e.g. Wireshark)
 ```bash
 p i c o C T F { p 4 c k 3 7 _ 5 h 4 r k _ c e c c a a 7 f }
 ```
-1. **Clean the Flag Format:**
+7. **Clean the Flag Format:**
    Although the flag appears with spaces in the Stream view, these spaces must be removed for the flag to be valid. This spacing often occurs due to the way specific protocols (like UTF-16 encoding) represent characters in the packet.
 ```bash
 picoCTF{p4ck37_5h4rk_ceccaa7f}
@@ -56,3 +56,4 @@ picoCTF{p4ck37_5h4rk_ceccaa7f}
 #### 3. Why 'Length 0' matters
 
 > A packet with `Len=0` means the packet is empty. While it's possible to hide data in the headers of such a packet, usually beginner challenges store the flag in the payload, which requires a `Len` greater than 0.
+
