@@ -10,6 +10,7 @@ Use packet analysis on the provided packet capture file to find the flag.
 The goal of this challenge is to use a packet analysis software (e.g. Wireshark) to filter through network traffic, reconstruct data streams, and identify the specific packet containing the hidden flag.
 
 ## Solution
-1. Click the provided link in the challenge and download the `.pcap  file` to local system.
+1. Click the provided link in the challenge and download the `.pcap file` to local system.
 2. Head-over to `Wireshark > file > open` and select the `.pcap file`.
 3. Once the file is opened a number of captured packets would be displayed. 
+<img width="1919" height="334" alt="Screenshot 2026-03-08 013234" src="https://github.com/user-attachments/assets/ba675ec5-3b95-4c98-ab90-cb2accef2d1d" />
